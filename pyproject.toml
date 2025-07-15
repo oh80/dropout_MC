@@ -6,10 +6,15 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "datetime>=5.5",
+    "folium>=0.20.0",
+    "geodatasets>=2024.8.0",
+    "geopandas>=1.1.1",
     "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
     "numpy>=2.3.1",
     "pandas>=2.3.1",
     "requests>=2.32.4",
+    "scikit-learn>=1.7.0",
     "torch>=2.7.1",
     "tqdm>=4.67.1",
 ]
